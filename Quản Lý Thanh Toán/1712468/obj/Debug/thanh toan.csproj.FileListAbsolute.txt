@@ -1,0 +1,12 @@
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\bin\Debug\thanh toan.exe.config
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\bin\Debug\thanh toan.exe
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\bin\Debug\thanh toan.pdb
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh toan.csprojAssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh_toan.formChonHTTT.resources
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh_toan.formMHTB.resources
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh_toan.formXNTTTM.resources
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh_toan.Properties.Resources.resources
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh toan.csproj.GenerateResource.cache
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh toan.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh toan.exe
+D:\OneDrive - VNU-HCMUS\My PC\Download\Quản Lý Bán Hàng R8\Quản Lý Thanh Toán\1712468\obj\Debug\thanh toan.pdb
